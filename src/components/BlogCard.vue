@@ -64,6 +64,7 @@ export default {
             align-items: center;
             width: 35px;
             height: 35px;
+            background-color: #fff;
             border-radius: 50%;
             transition: 0.5s ease all;
 
